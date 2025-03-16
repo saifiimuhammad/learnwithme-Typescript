@@ -1,0 +1,3 @@
+[submodule "single-lingo"]
+	path = single-lingo
+	url = https://github.com/saifiimuhammad/Singlelingo.git
