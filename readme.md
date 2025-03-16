@@ -72,6 +72,10 @@ npm start
 
 ### 1. **Single Lingo**
 
+A TypeScript-based project that focuses on fundamental concepts and showcases TypeScript features in React.
+
+### 1. **Todo App**
+
 A TypeScript-based project that focuses on fundamental concepts and showcases TypeScript features.
 
 ### 2. **React in TypeScript**
