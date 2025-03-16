@@ -1,3 +1,6 @@
 [submodule "single-lingo"]
 	path = single-lingo
 	url = https://github.com/saifiimuhammad/Singlelingo.git
+[submodule "todo-app-ts"]
+	path = todo-app-ts
+	url = https://github.com/saifiimuhammad/Todo-List-App---Typescript-version
